@@ -4,7 +4,8 @@ Para que sirve TermuxKey?
 TermuxKey es un simple y basico script </br>
 que lo que hace es modificar tu termux y </br>
 te agrega teclas especiales para mejor </br>
-movilidad en Termux :D
+movilidad en Termux y te sera mas </br>
+si eres programador, aprovecha!! :D
 
 # Instalacion 
 
